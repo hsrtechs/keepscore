@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cricket Card</string>
+    <string name="LegBiesTitle">Leg Bies (Tap to Change)</string>
+    <string name="BiesTitle">Bies (Tap to Change)</string>
+    <string name="one">One</string>
+    <string name="three">Three</string>
+    <string name="five">Five</string>
+    <string name="two">Two</string>
+    <string name="four">Four</string>
+    <string name="six">Six</string>
+    <string name="team">Team</string>
+    <string name="team2Title">Team Two</string>
+    <string name="team1Title">Team One</string>
+    <string name="runs">Runs</string>
+    <string name="boundaries">Boundaries</string>
+</resources>
